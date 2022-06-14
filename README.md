@@ -1,2 +1,2 @@
 # python-multiprosessing
- This is just some Test of python via multiprosessing
+ This is just some test of python via multiprosessing
